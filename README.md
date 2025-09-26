@@ -1,3 +1,6 @@
+#LEARN TO SPEAK HEBREW
+- this website was my initial build:
+-  W://jsinkcreations.wixsite.com/hebrew-vocabulary/vocab
 # Eleventy + Tailwind CSS + GitHub Pages + Custom Domain Template
 
 A starter template for static sites using Eleventy, Tailwind CSS, and GitHub Pages with custom domain support. All common deployment and configuration gotchas are solved.
