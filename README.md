@@ -1,4 +1,4 @@
-#LEARN TO SPEAK HEBREW
+# LEARN TO SPEAK HEBREW
 - this website was my initial build:
 -  W://jsinkcreations.wixsite.com/hebrew-vocabulary/vocab
 # Eleventy + Tailwind CSS + GitHub Pages + Custom Domain Template
