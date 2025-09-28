@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "definition": "of / belongs to",
+    "transliteration": "shel",
+    "hebrew_no_vowels": "של",
+    "hebrew_vowels": "שֶׁל",
+    "audio": ""
+  },
+  {
+    "id": 2,
+    "definition": "you (f.s.)",
+    "transliteration": "at",
+    "hebrew_no_vowels": "את",
+    "hebrew_vowels": "אַתְּ",
+    "audio": ""
+  },
+  {
+    "id": 2,
+    "definition": "the (direct object)",
+    "transliteration": "et",
+    "hebrew_no_vowels": "את",
+    "hebrew_vowels": "אֶת",
+    "audio": ""
+  },
+  {
+    "id": 3,
+    "definition": "on / about / top",
+    "transliteration": "al",
+    "hebrew_no_vowels": "על",
+    "hebrew_vowels": "עַל",
+    "audio": ""
+  },
+  {
+    "id": 4,
+    "definition": "no",
+    "transliteration": "lo",
+    "hebrew_no_vowels": "לא",
+    "hebrew_vowels": "לֹא",
+    "audio": ""
+  },
+  {
+    "id": 5,
+    "definition": "he",
+    "transliteration": "hu",
+    "hebrew_no_vowels": "הוא",
+    "hebrew_vowels": "הוּא",
+    "audio": ""
+  },
+  {
+    "id": 6,
+    "definition": "with",
+    "transliteration": "im",
+    "hebrew_no_vowels": "עם",
+    "hebrew_vowels": "עִם",
+    "audio": ""
+  },
+  {
+    "id": 6,
+    "definition": "people / nation",
+    "transliteration": "am",
+    "hebrew_no_vowels": "עם",
+    "hebrew_vowels": "עַם",
+    "audio": ""
+  },
+  {
+    "id": 7,
+    "definition": "because",
+    "transliteration": "ki",
+    "hebrew_no_vowels": "כי",
+    "hebrew_vowels": "כִּי",
+    "audio": ""
+  },
+  {
+    "id": 8,
+    "definition": "was (m.s.)",
+    "transliteration": "haya",
+    "hebrew_no_vowels": "היה",
+    "hebrew_vowels": "הָיָה",
+    "audio": ""
+  },
+  {
+    "id": 9,
+    "definition": "this / that",
+    "transliteration": "ze",
+    "hebrew_no_vowels": "זה",
+    "hebrew_vowels": "זֶה",
+    "audio": ""
+  },
+  {
+    "id": 10,
+    "definition": "also / too",
+    "transliteration": "gam",
+    "hebrew_no_vowels": "גם",
+    "hebrew_vowels": "גַּם",
+    "audio": ""
+  },
+  {
+    "id": 11,
+    "definition": "in",
+    "transliteration": "be",
+    "hebrew_no_vowels": "ב",
+    "hebrew_vowels": "בְּ",
+    "audio": ""
+  },
+  {
+    "id": 12,
+    "definition": "all",
+    "transliteration": "kol",
+    "hebrew_no_vowels": "כל",
+    "hebrew_vowels": "כֹּל",
+    "audio": ""
+  },
+  {
+    "id": 13,
+    "definition": "the",
+    "transliteration": "ha",
+    "hebrew_no_vowels": "ה",
+    "hebrew_vowels": "הַ",
+    "audio": ""
+  },
+  {
+    "id": 14,
+    "definition": "between / among",
+    "transliteration": "bein",
+    "hebrew_no_vowels": "בין",
+    "hebrew_vowels": "בֵּין",
+    "audio": ""
+  },
+  {
+    "id": 14,
+    "definition": "within",
+    "transliteration": "bin",
+    "hebrew_no_vowels": "בין",
+    "hebrew_vowels": "בֵּין",
+    "audio": ""
+  },
+  {
+    "id": 15,
+    "definition": "or",
+    "transliteration": "o",
+    "hebrew_no_vowels": "או",
+    "hebrew_vowels": "אוֹ",
+    "audio": ""
+  },
+  {
+    "id": 16,
+    "definition": "to / God",
+    "transliteration": "el",
+    "hebrew_no_vowels": "אל",
+    "hebrew_vowels": "אֶל",
+    "audio": ""
+  },
+  {
+    "id": 16,
+    "definition": "don't",
+    "transliteration": "al",
+    "hebrew_no_vowels": "אל",
+    "hebrew_vowels": "אַל",
+    "audio": ""
+  },
+  {
+    "id": 17,
+    "definition": "but / hardly",
+    "transliteration": "akh",
+    "hebrew_no_vowels": "אך",
+    "hebrew_vowels": "אַךְ",
+    "audio": ""
+  },
+  {
+    "id": 18,
+    "definition": "more",
+    "transliteration": "yoter",
+    "hebrew_no_vowels": "יותר",
+    "hebrew_vowels": "יוֹתֵר",
+    "audio": ""
+  },
+  {
+    "id": 19,
+    "definition": "she",
+    "transliteration": "hi",
+    "hebrew_no_vowels": "היא",
+    "hebrew_vowels": "הִיא",
+    "audio": ""
+  },
+  {
+    "id": 20,
+    "definition": "after",
+    "transliteration": "le'akhar",
+    "hebrew_no_vowels": "לאחר",
+    "hebrew_vowels": "לְאַחַר",
+    "audio": ""
+  },
+  {
+    "id": 20,
+    "definition": "to be late",
+    "transliteration": "le'akher",
+    "hebrew_no_vowels": "לאחר",
+    "hebrew_vowels": "לְאַחֵר",
+    "audio": ""
+  },
+  {
+    "id": 20,
+    "definition": "to/for the other",
+    "transliteration": "la'akher",
+    "hebrew_no_vowels": "לאחר",
+    "hebrew_vowels": "לְאַחֵר",
+    "audio": ""
+  },
+  {
+    "id": 21,
+    "definition": "but",
+    "transliteration": "aval",
+    "hebrew_no_vowels": "אבל",
+    "hebrew_vowels": "אֲבָל",
+    "audio": ""
+  },
+  {
+    "id": 21,
+    "definition": "mourning",
+    "transliteration": "evel",
+    "hebrew_no_vowels": "אבל",
+    "hebrew_vowels": "אֵבֶל",
+    "audio": ""
+  },
+  {
+    "id": 21,
+    "definition": "mourner",
+    "transliteration": "avel",
+    "hebrew_no_vowels": "אבל",
+    "hebrew_vowels": "אָבֵל",
+    "audio": ""
+  },
+  {
+    "id": 22,
+    "definition": "to",
+    "transliteration": "le",
+    "hebrew_no_vowels": "ל",
+    "hebrew_vowels": "לְ",
+    "audio": ""
+  },
+  {
+    "id": 22,
+    "definition": "to the",
+    "transliteration": "la",
+    "hebrew_no_vowels": "ל",
+    "hebrew_vowels": "לָ",
+    "audio": ""
+  },
+  {
+    "id": 23,
+    "definition": "were (m.)",
+    "transliteration": "hayu",
+    "hebrew_no_vowels": "היו",
+    "hebrew_vowels": "הָיוּ ",
+    "audio": ""
+  },
+  {
+    "id": 24,
+    "definition": "until / eternity",
+    "transliteration": "ad",
+    "hebrew_no_vowels": "עד",
+    "hebrew_vowels": "עַד",
+    "audio": ""
+  },
+  {
+    "id": 24,
+    "definition": "witness",
+    "transliteration": "ed",
+    "hebrew_no_vowels": "עד",
+    "hebrew_vowels": "עֵד",
+    "audio": ""
+  },
+  {
+    "id": 25,
+    "definition": "this (f.)",
+    "transliteration": "zo",
+    "hebrew_no_vowels": "זו",
+    "hebrew_vowels": "זוֹ",
+    "audio": ""
+  },
+  {
+    "id": 26,
+    "definition": "they (m.)",
+    "transliteration": "hem",
+    "hebrew_no_vowels": "הם",
+    "hebrew_vowels": "הֵם",
+    "audio": ""
+  },
+  {
+    "id": 27,
+    "definition": "that / which",
+    "transliteration": "asher",
+    "hebrew_no_vowels": "אשר",
+    "hebrew_vowels": "אֲשֶׁר",
+    "audio": ""
+  },
+  {
+    "id": 28,
+    "definition": "she was",
+    "transliteration": "haita",
+    "hebrew_no_vowels": "הייתה",
+    "hebrew_vowels": "הָיְתָה",
+    "audio": ""
+  },
+  {
+    "id": 29,
+    "definition": "in the year [X] / in the year of",
+    "transliteration": "bishnat",
+    "hebrew_no_vowels": "בשנת",
+    "hebrew_vowels": "בִּשְׁנַת",
+    "audio": ""
+  },
+  {
+    "id": 30,
+    "definition": "so / like this / thus",
+    "transliteration": "kakh",
+    "hebrew_no_vowels": "כך",
+    "hebrew_vowels": "כָּךְ",
+    "audio": ""
+  },
+  {
+    "id": 31,
+    "definition": "only",
+    "transliteration": "rak",
+    "hebrew_no_vowels": "רק",
+    "hebrew_vowels": "רַק",
+    "audio": ""
+  },
+  {
+    "id": 32,
+    "definition": "also / even / nose",
+    "transliteration": "af",
+    "hebrew_no_vowels": "אף",
+    "hebrew_vowels": "אַף",
+    "audio": ""
+  },
+  {
+    "id": 33,
+    "definition": "most, very much",
+    "transliteration": "beyoter",
+    "hebrew_no_vowels": "ביותר",
+    "hebrew_vowels": "בְּיוֹתֵר",
+    "audio": ""
+  },
+  {
+    "id": 34,
+    "definition": "I / me",
+    "transliteration": "ani",
+    "hebrew_no_vowels": "אני",
+    "hebrew_vowels": "אֲנִי",
+    "audio": ""
+  },
+  {
+    "id": 35,
+    "definition": "more",
+    "transliteration": "od",
+    "hebrew_no_vowels": "עוד",
+    "hebrew_vowels": "עוֹד",
+    "audio": ""
+  },
+  {
+    "id": 35,
+    "definition": "musical instrument",
+    "transliteration": "ud",
+    "hebrew_no_vowels": "עוד",
+    "hebrew_vowels": "עוּד ",
+    "audio": ""
+  },
+  {
+    "id": 36,
+    "definition": "many",
+    "transliteration": "rabim",
+    "hebrew_no_vowels": "רבים",
+    "hebrew_vowels": "רַבִּים",
+    "audio": ""
+  },
+  {
+    "id": 36,
+    "definition": "fighting (m.pl.)",
+    "transliteration": "ravim",
+    "hebrew_no_vowels": "רבים",
+    "hebrew_vowels": "רָבִים",
+    "audio": ""
+  },
+  {
+    "id": 37,
+    "definition": "like / as",
+    "transliteration": "kmo",
+    "hebrew_no_vowels": "כמו",
+    "hebrew_vowels": "כְּמוֹ",
+    "audio": ""
+  },
+  {
+    "id": 38,
+    "definition": "home / house",
+    "transliteration": "bayit",
+    "hebrew_no_vowels": "בית",
+    "hebrew_vowels": "בַּיִת",
+    "audio": ""
+  },
+  {
+    "id": 39,
+    "definition": "if",
+    "transliteration": "im",
+    "hebrew_no_vowels": "אם",
+    "hebrew_vowels": "אִם",
+    "audio": ""
+  },
+  {
+    "id": 39,
+    "definition": "mother",
+    "transliteration": "em",
+    "hebrew_no_vowels": "אם",
+    "hebrew_vowels": "אֵם",
+    "audio": ""
+  },
+  {
+    "id": 40,
+    "definition": "this (f.)",
+    "transliteration": "zot",
+    "hebrew_no_vowels": "זאת",
+    "hebrew_vowels": "זֹאת",
+    "audio": ""
+  },
+  {
+    "id": 41,
+    "definition": "there",
+    "transliteration": "sham",
+    "hebrew_no_vowels": "שם",
+    "hebrew_vowels": "שָׁם",
+    "audio": ""
+  },
+  {
+    "id": 41,
+    "definition": "name",
+    "transliteration": "shem",
+    "hebrew_no_vowels": "שם",
+    "hebrew_vowels": "שֵׁם",
+    "audio": ""
+  },
+  {
+    "id": 42,
+    "definition": "there is / one must",
+    "transliteration": "yesh",
+    "hebrew_no_vowels": "יש",
+    "hebrew_vowels": "יֵשׁ",
+    "audio": ""
+  },
+  {
+    "id": 43,
+    "definition": "what",
+    "transliteration": "ma",
+    "hebrew_no_vowels": "מה",
+    "hebrew_vowels": "מָה",
+    "audio": ""
+  },
+  {
+    "id": 44,
+    "definition": "to me / for me",
+    "transliteration": "li",
+    "hebrew_no_vowels": "לי",
+    "hebrew_vowels": "לִי",
+    "audio": ""
+  },
+  {
+    "id": 45,
+    "definition": "yes / sincere",
+    "transliteration": "ken",
+    "hebrew_no_vowels": "כן",
+    "hebrew_vowels": "כֵּן",
+    "audio": ""
+  },
+  {
+    "id": 45,
+    "definition": "stand (n.), base, pedestal",
+    "transliteration": "kan",
+    "hebrew_no_vowels": "כן",
+    "hebrew_vowels": "כַּן",
+    "audio": ""
+  },
+  {
+    "id": 46,
+    "definition": "like / as / approximately",
+    "transliteration": "ke",
+    "hebrew_no_vowels": "כ",
+    "hebrew_vowels": "כְּ",
+    "audio": ""
+  },
+  {
+    "id": 47,
+    "definition": "to him",
+    "transliteration": "lo",
+    "hebrew_no_vowels": "לו",
+    "hebrew_vowels": "לוֹ",
+    "audio": ""
+  },
+  {
+    "id": 47,
+    "definition": "if (wishing)",
+    "transliteration": "lu",
+    "hebrew_no_vowels": "לו",
+    "hebrew_vowels": "לוּ",
+    "audio": ""
+  },
+  {
+    "id": 48,
+    "definition": "number",
+    "transliteration": "mispar",
+    "hebrew_no_vowels": "מספר",
+    "hebrew_vowels": "מִסְפָּר ",
+    "audio": ""
+  },
+  {
+    "id": 48,
+    "definition": "tell (m.s.) / narrator",
+    "transliteration": "mesaper",
+    "hebrew_no_vowels": "מספר",
+    "hebrew_vowels": "מְסַפֵּר",
+    "audio": ""
+  },
+  {
+    "id": 49,
+    "definition": "in him / in it",
+    "transliteration": "bo",
+    "hebrew_no_vowels": "בו",
+    "hebrew_vowels": "בּוֹ",
+    "audio": ""
+  },
+  {
+    "id": 50,
+    "definition": "the city",
+    "transliteration": "ha'ir",
+    "hebrew_no_vowels": "העיר",
+    "hebrew_vowels": "הָעִיר",
+    "audio": ""
+  },
+  {
+    "id": 50,
+    "definition": "made a comment / woke someone up (m.s.)",
+    "transliteration": "he'ir",
+    "hebrew_no_vowels": "העיר",
+    "hebrew_vowels": "הֵעִיר",
+    "audio": ""
+  },
+  {
+    "id": 51,
+    "definition": "from",
+    "transliteration": "mi",
+    "hebrew_no_vowels": "מ",
+    "hebrew_vowels": "מִ",
+    "audio": ""
+  },
+  {
+    "id": 52,
+    "definition": "in order to / according to the measure of, about ",
+    "transliteration": "kedei",
+    "hebrew_no_vowels": "כדי",
+    "hebrew_vowels": "כְּדֵי",
+    "audio": ""
+  },
+  {
+    "id": 53,
+    "definition": "him / it",
+    "transliteration": "oto",
+    "hebrew_no_vowels": "אותו",
+    "hebrew_vowels": "אוֹתוֹ",
+    "audio": ""
+  },
+  {
+    "id": 54,
+    "definition": "thing / matter / something / word / speech / saying / command / to speak / to say",
+    "transliteration": "davar",
+    "hebrew_no_vowels": "דבר",
+    "hebrew_vowels": "דָּבָר",
+    "audio": ""
+  },
+  {
+    "id": 54,
+    "definition": "plague",
+    "transliteration": "dever",
+    "hebrew_no_vowels": "דבר",
+    "hebrew_vowels": "דֶּבֶר",
+    "audio": ""
+  },
+  {
+    "id": 54,
+    "definition": "speak (m.s. imperative)",
+    "transliteration": "daber",
+    "hebrew_no_vowels": "דבר",
+    "hebrew_vowels": "דַּבֵּר!‏",
+    "audio": ""
+  },
+  {
+    "id": 55,
+    "definition": "and",
+    "transliteration": "ve",
+    "hebrew_no_vowels": "ו",
+    "hebrew_vowels": "וְ",
+    "audio": ""
+  },
+  {
+    "id": 55,
+    "definition": "and",
+    "transliteration": "u",
+    "hebrew_no_vowels": "ו",
+    "hebrew_vowels": "וּ",
+    "audio": ""
+  },
+  {
+    "id": 56,
+    "definition": "in all / at all",
+    "transliteration": "bekhol",
+    "hebrew_no_vowels": "בכל",
+    "hebrew_vowels": "בְּכָל",
+    "audio": ""
+  },
+  {
+    "id": 57,
+    "definition": "these",
+    "transliteration": "elu",
+    "hebrew_no_vowels": "אלו",
+    "hebrew_vowels": "אֵלּוּ ",
+    "audio": ""
+  },
+  {
+    "id": 58,
+    "definition": "second",
+    "transliteration": "sheni",
+    "hebrew_no_vowels": "שני",
+    "hebrew_vowels": "שֵׁנִי",
+    "audio": ""
+  },
+  {
+    "id": 58,
+    "definition": "two",
+    "transliteration": "shnei",
+    "hebrew_no_vowels": "שני",
+    "hebrew_vowels": "שְׁנֵי",
+    "audio": ""
+  },
+  {
+    "id": 58,
+    "definition": "scarlet",
+    "transliteration": "shani",
+    "hebrew_no_vowels": "שני",
+    "hebrew_vowels": "שָׁנִי",
+    "audio": ""
+  },
+  {
+    "id": 59,
+    "definition": "these",
+    "transliteration": "ele",
+    "hebrew_no_vowels": "אלה",
+    "hebrew_vowels": "אֵלֶּה",
+    "audio": ""
+  },
+  {
+    "id": 59,
+    "definition": "goddess",
+    "transliteration": "ela",
+    "hebrew_no_vowels": "אלה",
+    "hebrew_vowels": "אֵלָה",
+    "audio": ""
+  },
+  {
+    "id": 59,
+    "definition": "bat / cudgel / club",
+    "transliteration": "ala",
+    "hebrew_no_vowels": "אלה",
+    "hebrew_vowels": "אַלָּה",
+    "audio": ""
+  },
+  {
+    "id": 60,
+    "definition": "when / while",
+    "transliteration": "ka'asher",
+    "hebrew_no_vowels": "כאשר",
+    "hebrew_vowels": "כַּאֲשֶׁר",
+    "audio": ""
+  },
+  {
+    "id": 61,
+    "definition": "there is no",
+    "transliteration": "ein",
+    "hebrew_no_vowels": "אין",
+    "hebrew_vowels": "אֵין",
+    "audio": ""
+  },
+  {
+    "id": 61,
+    "definition": "nothing / naught / where",
+    "transliteration": "ain",
+    "hebrew_no_vowels": "אין",
+    "hebrew_vowels": "אַיִן",
+    "audio": ""
+  },
+  {
+    "id": 62,
+    "definition": "said (m.s.)",
+    "transliteration": "amar",
+    "hebrew_no_vowels": "אמר",
+    "hebrew_vowels": "אָמַר",
+    "audio": ""
+  },
+  {
+    "id": 63,
+    "definition": "in a way",
+    "transliteration": "beofen",
+    "hebrew_no_vowels": "באופן",
+    "hebrew_vowels": "בְּאֹפֶן",
+    "audio": ""
+  },
+  {
+    "id": 64,
+    "definition": "the pact / the alliance / the covenant / the circumcision",
+    "transliteration": "habrit",
+    "hebrew_no_vowels": "הברית",
+    "hebrew_vowels": " הַבְּרִית",
+    "audio": ""
+  },
+  {
+    "id": 65,
+    "definition": "from",
+    "transliteration": "min",
+    "hebrew_no_vowels": "מן",
+    "hebrew_vowels": "מִן",
+    "audio": ""
+  },
+  {
+    "id": 66,
+    "definition": "that [is] not",
+    "transliteration": "shelo",
+    "hebrew_no_vowels": "שלא",
+    "hebrew_vowels": "שֶׁלֹּא",
+    "audio": ""
+  },
+  {
+    "id": 67,
+    "definition": "my hands",
+    "transliteration": "yadai",
+    "hebrew_no_vowels": "ידי",
+    "hebrew_vowels": "יָדַי",
+    "audio": ""
+  },
+  {
+    "id": 67,
+    "definition": "my hand",
+    "transliteration": "yadi",
+    "hebrew_no_vowels": "ידי",
+    "hebrew_vowels": "יָדִי",
+    "audio": ""
+  },
+  {
+    "id": 67,
+    "definition": "the hands of",
+    "transliteration": "yedei",
+    "hebrew_no_vowels": "ידי",
+    "hebrew_vowels": "יְדֵי",
+    "audio": ""
+  },
+  {
+    "id": 68,
+    "definition": "before / in front of / ago",
+    "transliteration": "lifnei",
+    "hebrew_no_vowels": "לפני",
+    "hebrew_vowels": "לִפְנֵי",
+    "audio": ""
+  },
+  {
+    "id": 69,
+    "definition": "they (f.)",
+    "transliteration": "hen",
+    "hebrew_no_vowels": "הן",
+    "hebrew_vowels": "הֵן",
+    "audio": ""
+  },
+  {
+    "id": 70,
+    "definition": "the world",
+    "transliteration": "ha'olam",
+    "hebrew_no_vowels": "העולם",
+    "hebrew_vowels": "הָעוֹלָם",
+    "audio": ""
+  },
+  {
+    "id": 71,
+    "definition": "my mouth / multiplied by",
+    "transliteration": "pi",
+    "hebrew_no_vowels": "פי",
+    "hebrew_vowels": "פִּי",
+    "audio": ""
+  },
+  {
+    "id": 72,
+    "definition": "during / over the course of",
+    "transliteration": "bemahalakh",
+    "hebrew_no_vowels": "במהלך",
+    "hebrew_vowels": "בְּמַהֲלַךְ",
+    "audio": ""
+  }
+]
